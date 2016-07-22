@@ -6,6 +6,9 @@ title: Rich Portfolios
 description: |
 ---
   An educational and informational application to help with your personal portfolio allocation.  Application is divided into 3 parts:
+  
   Assets:  The assets section introduces users to various asset classes that become building blocks for your portfolio.
+  
   Portfolios: This is an assortment of popular "lazy portfolios".  These are useful learning tools, quick references, and starting points for your own experimentation.
+  
   Calculators: Here you can create your own custom portfolios by combining assets to genrate surprising results.  Compare different portfolios or asset classes.  We also have custom designed risk-based portfolios to fit various risk levels.
