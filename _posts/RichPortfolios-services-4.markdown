@@ -1,6 +1,6 @@
 ---
 layout: default
-img: richportfolio.png
+img: ipad.png
 category: Services
 title: Rich Portfolios
 description: |
