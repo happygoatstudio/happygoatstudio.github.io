@@ -7,7 +7,7 @@ description: |
 ---
   An educational and informational application to help with your personal portfolio allocation.  Application is divided into 3 parts:
   
-  Assets:  The assets section introduces users to various asset classes that become building blocks for your portfolio.
+  [Assets:]()  The assets section introduces users to various asset classes that become building blocks for your portfolio.
   
   Portfolios: This is an assortment of popular "lazy portfolios".  These are useful learning tools, quick references, and starting points for your own experimentation.
   
