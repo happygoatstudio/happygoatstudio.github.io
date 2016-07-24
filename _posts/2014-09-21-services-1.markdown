@@ -13,4 +13,4 @@ description: |
   
   - **Calculators:** Here you can create your own custom portfolios by combining assets to genrate surprising results.  Compare different portfolios or asset classes.  We also have custom designed risk-based portfolios to fit various risk levels.
 
-Please download **Rich Portfolios** from [Google Play Store] (https://play.google.com/store/apps/details?id=com.ojasch.happygoatstudio.richportfolios)
+Download **Rich Portfolios** app from [Google Play Store] (https://play.google.com/store/apps/details?id=com.ojasch.happygoatstudio.richportfolios)
